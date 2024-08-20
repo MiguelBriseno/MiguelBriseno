@@ -1,3 +1,5 @@
+![Miguel Briseño - Full Stack Developer](https://i.postimg.cc/wvdhVBp9/1724098459339.jpg)
+
 ## Hi there 👋, I’m Miguel Briseño 💻
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with a love for creating innovative solutions and continuously learning new technologies. My journey in software development is driven by a deep curiosity and a commitment to excellence.
