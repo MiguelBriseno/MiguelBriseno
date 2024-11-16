@@ -1,4 +1,4 @@
-![Miguel Briseño - Full Stack Developer](https://i.postimg.cc/wvdhVBp9/1724098459339.jpg)
+![Miguel Briseño - Full Stack Developer](https://postimg.cc/fVKmY16Q)
 
 ## Hi there 👋, I’m Miguel Briseño 💻
 
